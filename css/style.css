@@ -1,0 +1,23 @@
+html , body {
+    margin: 0;
+    padding: 0;
+}
+.container {
+    max-width: 1060px;
+    padding: 50 80px;
+    box-sizing: border-box;
+    margin: 0 auto;
+    text-align: justify;
+    font-size: 1rem;
+    }
+aside {
+    float: right;
+    border-left: 2px solid black;
+    max-width: 300px;
+    color: cornflowerblue;
+    margin-left: 10px;
+    padding-left: 10px;
+}
+.img-display {
+    display: inline-block;
+}

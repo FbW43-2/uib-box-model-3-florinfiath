@@ -1,0 +1,15 @@
+html , body {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 1060px;
+    padding: 0 80px;
+    margin: 0 auto;
+    box-sizing: border-box;
+}
+
+aside {
+float: right;
+}
